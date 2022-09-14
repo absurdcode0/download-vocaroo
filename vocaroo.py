@@ -1,4 +1,3 @@
-from random import random
 from requests import get
 from sys import argv
 
